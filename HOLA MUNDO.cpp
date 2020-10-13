@@ -5,5 +5,8 @@ using namespace std;
  {
  	cout<<"HOLA MUNDO :D"<<endl;
  	//cout<<"HOLA MUNDO :D\n"; FOrma diferente de hacer un enter
+	 if (4>3){
+		 cout<<"Hola Mundo"<<endl;
+	 }
 	return 0;
  }
