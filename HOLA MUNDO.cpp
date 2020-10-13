@@ -5,6 +5,9 @@ using namespace std;
  {
 
  	//cout<<"HOLA MUNDO :D\n"; FOrma diferente de hacer un enter
+	cout<<"¿Se ve el cambio que he realizado?"
+	if ( 3 < 2 )
+		cout<<"Se cumple la condicion"<<endl;
+	 
 	return 0;
-	 cout<<"¿Se ve el cambio que he realizado?"
  }
